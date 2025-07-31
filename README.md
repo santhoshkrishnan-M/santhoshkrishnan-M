@@ -7,11 +7,11 @@
 
 <!-- 🎯 Rounded GIF Section -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRqcGJobmg1OWl6em5nbzZqdzZwZGxsMmwxc3Vya2N2Z3B3bDRnOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" 
        alt="coding gif" 
-       width="200" 
-       height="200"
-       style="border-radius: 50%;" />
+       width="300" 
+       height="300"
+       style="border-radius: 80%;" />
 </p>
 
 <!-- 👁 Profile View Counter -->
