@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm SANTHOSH KRISHNAN M</h1>
 <h3 align="center">
   Computer Science and Engineering student passionate about cybersecurity, AI, and smart tech innovations.<br>
-  Eager to learn, build, and create secure digital solutions that make an impact. From India 🇮🇳
+  Eager to learn, build, and create secure digital solutions that make an impact. 
+  From India
 </h3>
 
 <!-- 🎯 Rounded GIF Section -->
