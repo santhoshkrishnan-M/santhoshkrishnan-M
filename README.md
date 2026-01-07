@@ -24,14 +24,13 @@
 ### 💻 Programming & Development
 - Python, C
 - FlutterFlow
-- HTML, CSS
 - Git & GitHub
-
+-Burp Suite (Beginner)
+-Wireshark (Beginner)
+-Metasploit Framework
 ### 🔐 Cybersecurity
 - Ethical Hacking
 - Vulnerability Assessment
-- Network Security
-- Web Security Basics
 
 ### ☁️ Tools & Platforms
 - Linux
@@ -61,21 +60,12 @@
 - 🤝 Active in **Youth Red Cross – Social Service**
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhoshkrishnan246&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkrishnan246&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/santhosh-krishnan-a4141b32b/">LinkedIn</a> •
-  <a href="https://github.com/santhoshkrishnan246">GitHub</a>
+  <a href="https://www.linkedin.com/in/santhosh-krishnan-m/">LinkedIn</a>
 </p>
 
 ---
@@ -83,5 +73,6 @@
 <p align="center">
   <strong>“Security is not a product, it’s a process.”</strong>
 </p>
+
 
 
