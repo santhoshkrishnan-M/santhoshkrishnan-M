@@ -1,40 +1,67 @@
-<h1 align="center">Hi 👋, I'm SANTHOSH KRISHNAN M</h1>
-<h3 align="center">
-  Computer Science and Engineering student passionate about cybersecurity, AI, and smart tech innovations.<br>
-  Eager to learn, build, and create secure digital solutions that make an impact. 
-  From India
-</h3>
+<h1 align="center">Santhosh Krishnan M</h1>
 
-<!-- 🎯 Rounded GIF Section -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRqcGJobmg1OWl6em5nbzZqdzZwZGxsMmwxc3Vya2N2Z3B3bDRnOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" 
-       alt="coding gif" 
-       width="300" 
-       height="300"
-       style="border-radius: 80%;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=8AB4F8&center=true&vCenter=true&width=650&lines=Computer+Science+and+Engineering+Student;Cybersecurity+Focused+Developer;Python+and+Secure+Systems;Building+Reliable+and+Scalable+Solutions" />
 </p>
 
-<!-- 👁 Profile View Counter -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=santhoshkrishnan-m&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshkrishnan-m" />
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRal4nHc7sA/giphy.gif" width="360" />
 </p>
 
-<!-- 🔗 Connect with Me -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.leetcode.com/santhoshkrishnan__m" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="santhoshkrishnan__m" height="30" width="40" />
-  </a>
+---
+
+## Profile Summary
+Computer Science and Engineering student at SNS College of Technology (2024–2028).  
+Strong interest in cybersecurity, penetration testing, and secure system design.  
+Experienced in Python development, automation, and full-stack application workflows.  
+Focused on building production-ready, real-world solutions.
+
+---
+
+## Technical Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,linux,git,github,docker,flutter,html,css&theme=dark" />
 </p>
 
-<!-- 🛠 Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+---
+
+## Selected Projects
+- Food Delivery Application with Built-in Calorie Tracker  
+- GreenChain – Smart Supply Chain from Farmers to Customers (P1)  
+- MemeLab – Real-Time AI Meme Generator  
+- DomainSuggest AI  
+- VoltageHR – AI-Enabled HR Platform  
+
+Detailed documentation is available in individual repositories.
+
+---
+
+## GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santhoshkrishnan246&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshkrishnan246&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Contribution Visualization
+<p align="center">
+  <img src="https://github.com/santhoshkrishnan246/santhoshkrishnan246/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## Professional Links
+<p align="center">
+  <a href="https://www.linkedin.com/in/santhosh-krishnan-a4141b32b">LinkedIn</a> •
+  <a href="https://github.com/santhoshkrishnan246">GitHub</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&text=Focused%20on%20Security%20and%20Engineering%20Excellence&fontColor=ffffff&fontSize=22" />
+</p>
