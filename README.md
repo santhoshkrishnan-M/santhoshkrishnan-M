@@ -1,3 +1,5 @@
+<h1 align="left">Hi 👋, I'm Santhosh Krishnan M</h1>
+
 <img 
   src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" 
   align="right" 
@@ -26,11 +28,11 @@
 ## 📂 Featured Projects
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| **GreenChain (P1)** | Smart supply chain from farmers to customers | Python, Systems Design |
+| **GreenChain (P1)** | Smart supply chain from farmers to customers | Python|
 | **Food Delivery App** | App with built-in calorie tracker | FlutterFlow |
-| **MemeLab** | Real-time AI meme generator | Python, Kafka |
+| **MemeLab** | Real-time AI meme generator | Python, Kafka, pathway |
 | **DomainSuggest AI** | AI-based domain recommendation system | Python, Streamlit |
-| **VoltageHR** | AI-powered HR efficiency app | System Design |
+| **VoltageHR** | AI-powered HR efficiency app | Python |
 
 ---
 
@@ -52,4 +54,3 @@
 </p>
 
 <br clear="right"/>
-
