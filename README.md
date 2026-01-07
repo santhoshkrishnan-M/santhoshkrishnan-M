@@ -1,67 +1,86 @@
 <h1 align="center">Santhosh Krishnan M</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=8AB4F8&center=true&vCenter=true&width=650&lines=Computer+Science+and+Engineering+Student;Cybersecurity+Focused+Developer;Python+and+Secure+Systems;Building+Reliable+and+Scalable+Solutions" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=700&color=8FAADC&center=true&vCenter=true&width=720&lines=Computer+Science+and+Engineering;Cybersecurity+and+Secure+Systems;Engineering+Digital+Infrastructure;Exploring+Systems+Beyond+Limits"
+  />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRal4nHc7sA/giphy.gif" width="360" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:090979,100:000000&height=160&section=header&animation=fadeIn"
+  />
 </p>
 
 ---
 
-## Profile Summary
+## Profile Overview
 Computer Science and Engineering student at SNS College of Technology (2024–2028).  
-Strong interest in cybersecurity, penetration testing, and secure system design.  
-Experienced in Python development, automation, and full-stack application workflows.  
-Focused on building production-ready, real-world solutions.
+Focused on cybersecurity, penetration testing, and secure system architecture.  
+Experienced in Python development, automation pipelines, and scalable applications.  
+Driven by reliability, performance, and security-first design.
 
 ---
 
-## Technical Skills
+## Technical Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,linux,git,github,docker,flutter,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,linux,docker,github&theme=dark" />
 </p>
 
 ---
 
-## Selected Projects
+## Active Missions
 - Food Delivery Application with Built-in Calorie Tracker  
-- GreenChain – Smart Supply Chain from Farmers to Customers (P1)  
-- MemeLab – Real-Time AI Meme Generator  
+- GreenChain — Smart Supply Chain from Farmers to Customers (P1)  
+- MemeLab — Real-Time AI Meme Generator  
 - DomainSuggest AI  
-- VoltageHR – AI-Enabled HR Platform  
+- VoltageHR — AI-Enabled HR Platform  
 
-Detailed documentation is available in individual repositories.
-
----
-
-## GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhoshkrishnan246&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshkrishnan246&theme=tokyonight&hide_border=true" />
-</p>
+Each repository contains structured documentation and implementation details.
 
 ---
 
-## Contribution Visualization
+## Live System Metrics
 <p align="center">
-  <img src="https://github.com/santhoshkrishnan246/santhoshkrishnan246/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=santhoshkrishnan246&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshkrishnan246&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkrishnan246&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+## Orbital Contribution Flow
+<p align="center">
+  <img 
+    src="https://github.com/santhoshkrishnan246/santhoshkrishnan246/blob/output/github-contribution-grid-snake-dark.svg"
+  />
 </p>
 
 ---
 
 ## Professional Links
 <p align="center">
-  <a href="https://www.linkedin.com/in/santhosh-krishnan-a4141b32b">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/santhosh-krishnan-a4141b32b">LinkedIn</a> |
   <a href="https://github.com/santhoshkrishnan246">GitHub</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&text=Focused%20on%20Security%20and%20Engineering%20Excellence&fontColor=ffffff&fontSize=22" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0b1d3a,100:020024&height=140&section=footer&text=Engineering%20Secure%20Systems%20at%20Scale&fontColor=ffffff&fontSize=22"
+  />
 </p>
+
